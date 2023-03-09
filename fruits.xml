@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <fruits>
     <fruitage type="pome fruits">
         <pome id="1">
@@ -279,7 +279,7 @@
                 <characteristics>Crenshaw melons are medium to large fruits, averaging 17 to 20 centimeters in diameter, and have an oblong to acorn shape with a flattened, broad base tapering towards a small point on the stem end. The rind is thick, hard, and ranges in color from yellow with green streaks to golden yellow.</characteristics>
                 <originated>native to Turkey </originated>
                 <harvestseason>Crenshaw is a late season variety. Fruit bearing season is from July until October, peaking in August and September.</harvestseason>  
-                <benefits>Since Crenshaw melons are high in vitamin C, antioxidants, beta-carotene, folate, and potassium, these nutrients help boost energy levels naturally, making them perfect for people who need that extra boost throughout the day.</benefits>   
+                <benefits>Since Crenshaw melons are high in vitamin C, antioxidants, beta-carotene, folate, and potassium, these nutrients help boost energy levels naturally, making them perfect for people who need that extra boost throughout the day. </benefits>   
         </melons>
     </fruitage>
     
