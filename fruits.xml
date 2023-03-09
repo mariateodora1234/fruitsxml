@@ -1,0 +1,286 @@
+<?xml version="1.0"?>
+<fruits>
+    <fruitage type="pome fruits">
+        <pome id="1">
+                <name>apple</name>
+                <scientificname>Malus domestica</scientificname>
+                <characteristics>fruitiness, acidity, sweetness, juiciness, crispness, hardness, toughness, mealiness, vegetativeness, and astringency.</characteristics>
+                <originated>Kazakhstan, in central Asia east of the Caspian Sea.</originated>                
+                <harvestseason>September is typically the best time to pick apples, and generally, they should be harvested between late summer and late October.</harvestseason>  
+                <benefits>Apples are an incredibly nutritious fruit that offers multiple health benefitss. They're rich in fiber and antioxidants. 
+                Eating them is linked to a lower risk of many chronic conditions, including diabetes, heart disease, and cancer. Apples may also promote weight loss and improve gut and brain health.
+                </benefits>      
+        </pome>
+
+        <pome id="2">
+                <name>pear</name>
+                <scientificname>Pyrus</scientificname>
+                <characteristics>A pear is a sweet, juicy fruit that is narrow near its stalk, and wider and rounded at the bottom. Pears have white flesh and thin green, yellow, or brown skin.</characteristics>
+                <originated>China and Asia Minor until the Middle East.</originated>
+                <harvestseason>The harvest season is from late August to early October.</harvestseason>  
+                <benefits>In addition to being a good source of fiber, pears are also high in vitamins C and K, as well as potassium and antioxidants. They're also especially good for gut health, and they may help keep you regular, too.</benefits>      
+        </pome>
+
+        <pome id="3">
+                <name>hawthorn</name>
+                <scientificname>Crataegus pinnatifida</scientificname>
+                <characteristics>it can range from mealy, to hard, dry, and powdery, to crisp and juicy. The fruit tastes a bit bitter or sour, yet sweet. </characteristics>
+                <originated>Northern Hemisphere in Europe, Asia, North Africa, and North America.</originated>
+                <harvestseason>harvested between September and October, depending on the species</harvestseason>  
+                <benefits>Hawthorn is used to help protect against heart disease and help control high blood pressure and high cholesterol. Both animal and human studies suggest hawthorn increases 
+                coronary artery blood flow, improves circulation, and lowers blood pressure. It has also been used on the skin to treat boils and skin sores.</benefits>   
+        </pome>
+
+        <pome id="4">
+                <name>loquat</name>
+                <scientificname>Eriobotrya japonica</scientificname>
+                <characteristics>The thin skin is slightly downy, and the flesh, which can be deep orange, yellow, or creamy white, varies in texture from the crispness of a firm cantaloupe to the juiciness of a ripe peach. The flavor is a pleasant blend of apricot, plum and cherry with floral overtones, and is quite sweet when ripe.</characteristics>
+                <originated>southeastern and central China</originated>
+                <harvestseason>from October to February</harvestseason>  
+                <benefits>Loquat fruit is especially high in vitamin A and beta carotene, an antioxidant. These nutrients lower the risk of colorectal, lung, and other cancers. The loquat leaf, seed, and fruit have been shown to reduce inflammation, the body's over-reactive response to an irritant like germs or allergens.</benefits>   
+        </pome>
+                
+        <pome id="5">
+                <name>medlar</name>
+                <scientificname>Mespilus germanica</scientificname>
+                <characteristics>The flavour can be described as sweet-acidic, like little toffee apples and has a slightly grainy texture. Medlar fruits are often used to make various preserves such as medlar jelly which pairs well with cold or warm meats.</characteristics>
+                <originated>native to Europe, from the Netherlands southward, and to southwestern Asia.</originated>
+                <harvestseason>Harvest from late October to early November</harvestseason>  
+                <benefits>Calcium, potassium, magnesium, iron, and other minerals found in medlar fruit help boost overall immunity. With its rich content of vitamin C, medlars also hold the potential to help treat scurvy (2), (11). Pectin is a good source of dietary fiber derived from the cell walls of plants.</benefits>   
+        </pome>
+
+        <pome id="6">
+                <name>rose hip</name>
+                <scientificname>Rosa canina</scientificname>
+                <characteristics>It is typically red to orange, but ranges from dark purple to black in some species. Rose hips begin to form after pollination of flowers in spring or early summer, and ripen in late summer through autumn.</characteristics>
+                <originated>The exact origin of the Rosehip is rather unclear. Today, we are simply able to say that this plant has always flourished in Europe, Asia and North Africa.</originated>
+                <harvestseason>Harvesting rose hips in late summer is ideal.</harvestseason>  
+                <benefits>They may help reduce signs of aging and lower blood pressure, cholesterol, and osteoarthritis pain.</benefits>   
+        </pome>
+    </fruitage>
+
+    <fruitage type="drupe fruits">
+        <drupe id="1">
+                <name>cherries</name>
+                <scientificname>Prunus avium</scientificname>
+                <characteristics>The fruit is a fleshy drupe (stone fruit) that is generally heart-shaped to nearly globular, measures about 2 cm (1 inch) in diameter, and varies in colour from yellow through red to nearly black. The acid content of the sweet cherry is low.</characteristics>
+                <originated>Sweet cherries originated in Asia Minor in the fertile areas between the Black and Caspian seas and were likely brought to Europe by birds.</originated>
+                <harvestseason>Cherry season is typically during the months of May to July.</harvestseason>  
+                <benefits>Cherries are low in calories and chock full of fiber, vitamins, minerals, nutrients, and other good-for-you ingredients. You'll get vitamins C, A, and K. Each long-stemmed fruit delivers potassium, magnesium, and calcium too. They also bring antioxidants, like beta-carotene, and the essential nutrient choline.</benefits>   
+        </drupe>
+
+        <drupe id="2">
+                <name>almond</name>
+                <scientificname>Prunus amygdalus</scientificname>
+                <characteristics>Almond is a stone fruit (drupe) and consists of three layers, the outer exocarp, the middle fleshy mesocarp, and the inner endocarp. The edible part of the fruit is the seed, which can be sweet, slightly bitter or bitter. </characteristics>
+                <originated>Originating in Western and Central Asia</originated>
+                <harvestseason>Harvest occurs between February and April</harvestseason>  
+                <benefits>Lower Blood Pressure. Almonds can help lower your systolic blood pressure, which offers even more protection against heart disease. Essential Vitamins, Minerals, and Fiber. Almonds are rich in valuable nutrients for your body, like magnesium, vitamin E, and dietary fiber. Stronger Bones. Better Blood Sugar Control. </benefits>   
+        </drupe>
+
+        <drupe id="3">
+                <name>coffee</name>
+                <scientificname>Coffea</scientificname>
+                <characteristics>Coffee fruit, also known as coffee cherry or coffee berry, is a small, round stone fruit produced by the coffee plant. It is about the size of a grape and grows in bunches on the coffee plant. When raw, it is green in color and turns into a deep red, reddish-purple, or yellowish-red color as it ripens.</characteristics>
+                <originated>Coffee cultivation and trade began on the Arabian Peninsula.</originated>
+                <harvestseason>In countries North of the Equator harvest occurs from September to March. South of the Equator harvest is from April to August.</harvestseason>  
+                <benefits>The protective effects of coffee berries is because of the procyanidins or polyphenols. Coffee fruit raises your levels of brain-derived neurotrophic factor (BDNF), which is a protein that protects your brain cells from damage and improves brain function. Coffee fruit can lower blood pressure.</benefits>   
+        </drupe>
+
+        <drupe id="4">
+                <name>coconut</name>
+                <scientificname>Cocos nucifera</scientificname>
+                <characteristics>Its fruit, as big as a man's head and 1-2 kg in weight, is a drupe with a thin, smooth, grey-brown epicarp, a fibrous, 4-8 cm thick, mesocarp and a woody endocarp; as it is rather light, it can be carried long distances by water while keeping its germinability for a long time.</characteristics>
+                <originated>originated somewhere in Indo-Malaya </originated>
+                <harvestseason>season all year long.</harvestseason>  
+                <benefits>Coconut is low in carbs, so it is the best substitute for carb-rich snacks. It contains minerals and nutrients such as potassium, sodium, manganese, vitamin B, copper, and iron. Manganese is beneficial for our bone health.</benefits>   
+        </drupe>
+                
+        <drupe id="5">
+                <name>apricots</name>
+                <scientificname>Prunus armeniaca</scientificname>
+                <characteristics>Similar in shape to a peach, the fruit is nearly smooth, round to oblong in some varieties, and somewhat flattened but with little to no hairiness when ripe. Its flesh is typically a rich yellow to yellowish orange.</characteristics>
+                <originated>China and Central Asia</originated>
+                <harvestseason>Harvest season begins for apricots June thru August.</harvestseason>  
+                <benefits>Very nutritious and low in calories. Apricots are very nutritious and contain many essential vitamins and minerals. High in antioxidants. May promote eye health. May boost skin health. May promote gut health. High in potassium. Very hydrating. May protect your liver.</benefits>   
+        </drupe>
+
+        <drupe id="6">
+                <name>dates</name>
+                <scientificname>Phoenix dactylifera</scientificname>
+                <characteristics>Date fruits (dates) are oval-cylindrical, 3 to 7 centimetres (1 to 3 inches) long, and about 2.5 cm (1 in) in diameter, with colour ranging from dark brown to bright red or yellow, depending on variety.</characteristics>
+                <originated>where dates originate from is uncertain. Some say it might have come from Fertile Crescent lying beside Mesopotamia and Egypt.</originated>
+                <harvestseason>late August to September</harvestseason>  
+                <benefits>Rich in protective antioxidants. Dates are a rich source of protective plant compounds which have antioxidant properties. May support gut health. May support bone health.</benefits>   
+        </drupe>
+    </fruitage>
+
+     <fruitage type="berry fruits">
+        <berry id="1">
+                <name>raspberries</name>
+                <scientificname>Rubus idaeus</scientificname>
+                <characteristics>Raspberries are a popular berry with a rich color and sweet juicy taste. They are a good source of vitamins, minerals, and antioxidants. Raspberries can range in color from the popular red and black varieties to purple, yellow, or golden.</characteristics>
+                <originated>indigenous to Asia Minor and North America.</originated>
+                <harvestseason>Summer raspberries are generally ripe for harvesting in June/July, autumn raspberries only between August and October.</harvestseason>  
+                <benefits>They provide potassium, essential to heart function, and proven to lower blood pressure. The omega-3 fatty acids in raspberries can help prevent stroke and heart disease. They also contain a mineral called manganese, which is necessary for healthy bones and skin and helps regulate blood sugar.</benefits>   
+        </berry>
+
+        <berry id="2">
+                <name>blackberries</name>
+                <scientificname>Rubus subg. Rubus</scientificname>
+                <characteristics>The blackberry is purple-black when ripe, that is, towards the month of September in the northern hemisphere. Edible and with a sweet taste, it is a false fruit, since it does not come from the pistil of the flower, but is formed by its carpels transformed into drupelets.</characteristics>
+                <originated>originated in Armenia and was introduced to Europe in 1835</originated>
+                <harvestseason>Blackberries start to ripen in July and August, but watch for early bloomers in late June.</harvestseason>  
+                <benefits>Boosts your body functions. Blackberries are an excellent source of vitamin C, vitamin K and manganese. Improves digestion and blood sugar levels. Reduces inflammation. Prevents cardiovascular disease. Protects and improves brain function. Prevents cancer.</benefits>   
+        </berry>
+
+        <berry id="3">
+                <name>strawberries</name>
+                <scientificname>Fragaria ananassa</scientificname>
+                <characteristics>Strawberries are bright red, juicy, and sweet.</characteristics>
+                <originated>originally grown in northern Europe</originated>
+                <harvestseason>begins as early as the first week in June and extends for 4 to 5 weeks into early July</harvestseason>  
+                <benefits>Strawberries are good for your whole body. They naturally deliver vitamins, fiber, and particularly high levels of antioxidants known as polyphenols -- without any sodium, fat, or cholesterol.</benefits>   
+        </berry>
+
+        <berry id="4">
+                <name>blueberries</name>
+                <scientificname>Vaccinium sect. Cyanococcus</scientificname>
+                <characteristics>Blueberries are small — around 0.2-0.6 inches (5-16 millimeters) in diameter — and feature a flared crown at the end. They are green in color when they first appear, then deepen to purple and blue as they ripen.</characteristics>
+                <originated>Blueberries are native to our very own continent of North America</originated>
+                <harvestseason>April to late September.</harvestseason>  
+                <benefits>Blueberries contain a plant compound called anthocyanin. Blueberries can help heart health, bone strength, skin health, blood pressure, diabetes management, cancer prevention, and mental health. One cup of blueberries provides 24 percent of a person recommended daily allowance of vitamin C.</benefits>   
+        </berry>
+                
+        <berry id="5">
+                <name>jostaberries</name>
+                <scientificname>Ribes nidigrolaria</scientificname>
+                <characteristics>A bit tart, a bit sweet, and a tad tangy, Jostaberries are a cross between a black current and a gooseberry. When ripe, they turn a glossy deep purple (almost black) and taste similar to a gooseberry with a hint of black currant and grape.</characteristics>
+                <originated>created later in Germany.</originated>
+                <harvestseason>late July, early August. </harvestseason>  
+                <benefits>Jostaberries are rich in vitamin C and antioxidants. In studies, the extracts and juice of the Jostaberry have been found to have anti-fungal properties, as well as inhibitive effects on some bacteria, such as E. coli.</benefits>   
+        </berry>
+
+        <berry id="6">
+                <name>currants</name>
+                <scientificname>Ribes</scientificname>
+                <characteristics>currants are small berries that grow on shrubs and are more like gooseberries. Fresh black, red, pink, or white currants, as well as dried black currants, can be enjoyed in various ways. With a sweet and bright acidic berry flavor, currants are delicious when eaten fresh.</characteristics>
+                <originated>Netherlands, Denmark, and elsewhere around the Baltic Sea.</originated>
+                <harvestseason>ripe at the end of July to early August.</harvestseason>  
+                <benefits>Benefits from eating black currants include improvements in blood flow, lowered cholesterol, better management of blood clotting, lowered blood pressure, and even decreased risk of heart attacks.</benefits>   
+        </berry>
+    </fruitage>
+
+    <fruitage type="citrus fruits">
+        <citrus id="1">
+                <name>lemon</name>
+                <scientificname>Citrus limon</scientificname>
+                <characteristics>The fruit color is green to bright yellow at maturity and is with or without a collar at the neck. Thickness and smoothness of rind vary among varieties and lemons are either seedless or seedy. Some varieties have large and prominent nipple, while others have very small, inconspicuous nipple.</characteristics>
+                <originated>The origin of the lemon is unknown, though lemons are thought to have first grown in Assam (a region in northeast India), northern Myanmar or China.</originated>
+                <harvestseason>Most lemon trees can be harvested all year long, but winter is the most common season for harvesting this fruit. </harvestseason>  
+                <benefits>Support Heart Health. Help Control Weight. Prevent Kidney Stones. Protect Against Anemia. Reduce Cancer Risk. Improve Digestive Health.</benefits>   
+        </citrus>
+
+        <citrus id="2">
+                <name>calamansi</name>
+                <scientificname>Citrus microcarpa</scientificname>
+                <characteristics>a small citrus fruit, with a bright orange flesh and a peel that goes from green to orange as it ripens. It tastes sour with a hint of sweetness, like a mix between a lime and a mandarin.</characteristics>
+                <originated>Southeast Asia</originated>
+                <harvestseason>Peak season is between August - October.</harvestseason>  
+                <benefits>Calamansi juice may soothe acidity, stimulate growth, help in losing weight, bleach the skin, cleanse the body, decrease cholesterol, control diabetes, and offer relief to people with respiratory infections.</benefits>   
+        </citrus>
+
+        <citrus id="3">
+                <name>grapefruit</name>
+                <scientificname>Citrus grandis</scientificname>
+                <characteristics>The fruit ranges from 100 to 150 mm (4 to 6 inches) in diameter, its size depending upon the variety and upon growing conditions. Its pulp is usually light yellowish, tender, and very full of juice, with a distinctive mildly acid flavour. Several varieties have pink or red pulp.</characteristics>
+                <originated>originated in Barbados as a hybrid of shaddock (Citrus grandis).</originated>
+                <harvestseason>season from November to June</harvestseason>  
+                <benefits>Grapefruits, like oranges and other citrus fruits, are high in vitamin C. In fact, one whole, medium grapefruit provides you with 100% of your daily requirement for vitamin C, a powerful antioxidant that is great for your immune system and can help you fight off viruses and bacteria that can cause disease.</benefits>   
+        </citrus>
+
+        <citrus id="4">
+                <name>blood orange</name>
+                 <scientificname>Citrus sinensis</scientificname>
+                <characteristics>pink to red coloration of the flesh, juice, and rind. Coloration is due to the presence of anthocyanin pigments in the rind and flesh of the fruit. Red color develops with warm days and cool nights, which is the main feature of the Mediterranean climate.</characteristics>
+                <originated>Italy, southern Mediterranean</originated>
+                <harvestseason>winter months, so plan on a harvest in January or February.</harvestseason>  
+                <benefits>Blood oranges are rich in antioxidants, which help reduce the stress of oxidation and lower your risk of chronic health problems like cancer, heart disease, and diabetes.</benefits>   
+        </citrus>
+                
+        <citrus id="5">
+                <name>bitter orange</name>
+                <scientificname>Citrus aurantium</scientificname>
+                <characteristics>Evergreen tree with small thorns; broad, green leaves; and large, white, fragrant flowers. Its spherical fruit have a thick, orange or sometimes green peel. The juicy pulp is orange in colour and can taste sweet or sour</characteristics>
+                <originated>eastern Africa, the Arabian Peninsula, Syria, and Southeast Asia</originated>
+                <harvestseason>Every year, from the middle of January to early February</harvestseason>  
+                <benefits>Bitter orange has been used in traditional Chinese medicine for indigestion, nausea, and constipation. Today, various bitter orange products are promoted for heartburn, nasal congestion, weight loss, appetite stimulation or suppression, and athletic performance.</benefits>   
+        </citrus>
+
+        <citrus id="6">
+                <name>mandarin</name>
+                <scientificname>Citrus reticulata</scientificname>
+                <characteristics>A ripe mandarin is firm to slightly soft, heavy for its size, and pebbly-skinned. The peel is thin, loose, with little white mesocarp, so they are usually easier to peel and to split into segments</characteristics>
+                <originated>Mandarin oranges are native to the tropical and sub-tropical regions of Asia such as southern Asia and the Philippines.</originated>
+                <harvestseason>Mandarin season typically starts in mid-November and harvest runs through late January to mid-February.</harvestseason>  
+                <benefits>Mandarins contain Vitamins A, B, and a high level of Vitamin C which is great for preventing infections, removing free radicals, and supporting skin health.</benefits>   
+        </citrus>
+    </fruitage>
+
+    <fruitage type="melons fruits">
+        <melons id="1">
+                <name>watermelon</name>
+                <scientificname>Citrullus lanatus</scientificname>
+                <characteristics>Fruit shape can range from almost spherical to obovate. Fruit color is almost always green, but some rare forms have yellow fruits or bicolor, yellow and green, fruits. The watermelon fruit rind can be of a single green shade, such as black-green, dark green, or light green, or have two green shades as striping.</characteristics>
+                <originated>northeastern Africa</originated>
+                <harvestseason>from May to September</harvestseason>  
+                <benefits>Helps you stay hydrated. Packed with nutrients and beneficial plant compounds. May have anticancer effects. May improve heart health. May reduce inflammation and oxidative stress. May help prevent macular degeneration. May relieve muscle soreness. May aid skin health.</benefits>   
+        </melons>
+
+        <melons id="2">
+                <name>winter melon</name>
+                <scientificname>Benincasa hispida</scientificname>
+                <characteristics>Winter melons are large fruits, averaging 15 to 80 centimeters in length, and have a bulbous, round to oblong shape with blunt, curved ends. The melons are covered in a thin but tough, light to dark green skin, often enveloped in a textured, chalky layer of wax, depending on the variety.</characteristics>
+                <originated>parts of Southern Asia</originated>
+                <harvestseason>Winter melons have a long growing season with flowering occurring 50-80 days after planting. The fruit can be harvested anytime from one week after anthesis (for immature fruit for drying or pickling) with fruit maturity occurring by two months.</harvestseason>  
+                <benefits>It helps improve digestion, promote bowel movements, prevent constipation, and enhance gut health. The high soluble fiber in winter melons helps fight inflammation, lower cholesterol, regulate glucose levels, and lower your ability to absorb fat.</benefits>   
+        </melons>
+
+        <melons id="3">
+                <name>galia</name>
+                <scientificname>cucumis melo var. reticulatus</scientificname>
+                <characteristics>The Galia melon is a small, spherical melon with an earthy yellow colour and a green touch. It has a rough texture which is what makes it recognisable. But, on the other hand, its tasty flesh is yellow with a touch of green, and it's not too firm, so cutting is a simple task.</characteristics>
+                <originated>Originally developed by growers in Israel</originated>
+                <harvestseason>Galia melons are available year-round, grown in both hemispheres, and exported worldwide. The melons have a peak season in the spring through mid-fall.</harvestseason>  
+                <benefits>Galia melon is rich in Vitamin A and Vitamin C , which help stimulate immune responses within the body. Galia melon is rich with other antioxidants, which can help reduce the risk of serious health conditions like cancer, diabetes, stroke, and heart disease.</benefits>   
+        </melons>
+
+        <melons id="4">
+                <name>cantaloupe</name>
+                <scientificname>Cucumis melo</scientificname>
+                <characteristics>well shaped with good netting or webbing over creamy-colored rind. Tip end should be smooth and slightly depressed. A ripe cantaloupe will have a distinctive aroma and the blossom end should yield to gentle pressure</characteristics>
+                <originated>first originated in the Middle East or India</originated>
+                <harvestseason>planted from late December through March and are harvested from May through early July. </harvestseason>  
+                <benefits>The fiber, potassium, and vitamin C present in cantaloupe are vital nutrients for your heart health. Potassium can help to lower high blood pressure, which is a risk factor for heart disease. Fiber helps to decrease levels of “bad cholesterol” in your body. It can also keep your blood pressure in check.</benefits>   
+        </melons>
+                
+        <melons id="5">
+                <name>gac</name>
+                <scientificname>Momordica cochinchinensis</scientificname>
+                <characteristics>Gac fruits are small to medium in size, averaging 11 to 13 centimeters in length and 8 to 10 centimeters in diameter, and have a round to oblong, curved shape. The skin, sometimes labeled as the rind, is semi-thin and covered in small spikes and protrusions, developing a coarse and leathery texture. </characteristics>
+                <originated>Initially grown and popularized in Vietnam</originated>
+                <harvestseason>Because it has a relatively short harvest season (harvest normally starts about 8 months after planting, the harvest season of Gac fruit is from October to January)</harvestseason>  
+                <benefits>anti-cancer benefits abound. The beta carotene content is also nothing to discount and is beneficial for eye health. The omega-3 fatty acid in the fruit helps fight inflammation.</benefits>   
+        </melons>
+
+        <melons id="6">
+                <name>crenshaw</name>
+                <scientificname>Cucumis melo var. inodorous</scientificname>
+                <characteristics>Crenshaw melons are medium to large fruits, averaging 17 to 20 centimeters in diameter, and have an oblong to acorn shape with a flattened, broad base tapering towards a small point on the stem end. The rind is thick, hard, and ranges in color from yellow with green streaks to golden yellow.</characteristics>
+                <originated>native to Turkey </originated>
+                <harvestseason>Crenshaw is a late season variety. Fruit bearing season is from July until October, peaking in August and September.</harvestseason>  
+                <benefits>Since Crenshaw melons are high in vitamin C, antioxidants, beta-carotene, folate, and potassium, these nutrients help boost energy levels naturally, making them perfect for people who need that extra boost throughout the day.</benefits>   
+        </melons>
+    </fruitage>
+    
+</fruits>
